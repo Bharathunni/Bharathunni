@@ -17,7 +17,7 @@ In finance, the answer has to be correct and auditable, not probabilistic. So I 
 
 **📊 [Portfolio Filings Monitor](https://github.com/bharathunni/portfolio-filings-monitor)**: a Python service that tracks a live portfolio against public regulatory filings, classifies each filing by type and severity with explicit rules, filters to what's material, and emails a headline-first daily digest. Runs unattended every day. Multi-user: reads subscriber portfolios from Google Sheets and sends each person their own personalised brief.
 
-**🧾 [FinBuddy](https://github.com/bharathunni/finbuddy-bookkeeping)**: a double-entry ledger and reconciliation app that flags duplicate transactions on an exact match and, once entries are mapped to accounts, computes the balance gap to surface the value of transactions still pending reconciliation. Deterministic by design. **[Try it in the browser](https://bharathunni.github.io/finbuddy-bookkeeping/)** (no install).
+**🧾 [FinBuddy](https://github.com/bharathunni/finbuddy-bookkeeping)**: a double-entry ledger and reconciliation app that flags duplicate transactions on an exact match and, once entries are mapped to accounts, computes the balance gap to surface the value of transactions still pending reconciliation. Deterministic by design. **[Try it in the browser](https://bharathunni.github.io/Finbuddy-bookkeeping/)** (no install).
 
 **🔍 GL Anomaly Detection** *(in progress)*: anomaly detection over a synthetic 36-month general-ledger dataset, built to demonstrate the pattern on shareable data rather than anything confidential.
 
